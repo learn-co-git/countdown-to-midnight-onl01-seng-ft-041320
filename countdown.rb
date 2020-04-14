@@ -14,7 +14,7 @@ def countdown_with_sleep(n)
 		print "#{n} SECOND(S)!\n"
 		n -= 1
 		y = 0
-		while y <= 38000000 do 
+		while y <= 41000000 do 
 			y += 1
 		end
 	end
